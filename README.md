@@ -7,7 +7,6 @@ Automatic meeting notes and action item extraction using Xiaomi MiMo
 - Powered by Xiaomi MiMo API
 - Simple and intuitive interface
 - Real-time processing
-- Token consumption: 350K tokens/day
 
 ## 🚀 Quick Start
 
